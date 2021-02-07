@@ -57,3 +57,5 @@ http://178.160.245.147:1935/edge5/smil:haytv/playlist.m3u8
 http://178.160.245.148:1935/edge5/smil:tava/playlist.m3u8
 #EXTINF:0,shant
 http://178.160.245.147:1935/edge6/smil:shant/playlist.m3u8
+#EXTINF:0,h2
+http://178.160.245.147:1935/edge6/smil:h2/playlist.m3u8
