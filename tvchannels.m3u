@@ -46,7 +46,7 @@ http://178.160.245.148:1935/edge4/smil:tnt/playlist.m3u8
 #EXTINF:0,armenia
 http://178.160.245.148:1935/edge6/smil:armenia/playlist.m3u8
 #EXTINF:0,h1
-http://178.160.245.148:1935/edge2/smil:h1/playlist.m3u8
+http://178.160.245.184:80/live/eds/H1-HD/SAF-HLS/H1-HD.m3u8
 #EXTINF:0,kentron
 http://178.160.245.146:1935/edge6/smil:kentron/playlist.m3u8
 #EXTINF:0,atv
