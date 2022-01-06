@@ -1,148 +1,168 @@
 #EXTM3U
-#EXTINF:-1,DTX
-http://178.160.245.147:1935/edge3/smil:dtx/chunklist_w137559254_b992000_slru.m3u8
-#EXTINF:0,Русский иллюзион
-http://ttv-lrb1.teamcloud.am:1935/redirect/edge3/smil:russkiyilluzion?type=m3u8
-#EXTINF:0,telecafe
-http://178.160.245.145:1935/edge4/smil:telecafe/playlist.m3u8
-#EXTINF:0,bridgetv
-http://178.160.245.146:1935/edge3/smil:bridgetv.smil/playlist.m3u8
-#EXTINF:0,mir24
-http://178.160.245.145:1935/edge5/mir24.smil/playlist.m3u8
-#EXTINF:0,rtrplaneta
-http://178.160.245.147:1935/edge4/smil:rtrplaneta/playlist.m3u8
-#EXTINF:0,rtdoc
-http://178.160.245.145:1935/edge4/smil:rtdoc/playlist.m3u8
-#EXTINF:0,mcmtop
-http://178.160.245.148:1935/edge5/mcmtop.smil/playlist.m3u8
-#EXTINF:0,docboxhd
-http://178.160.245.147:1935/edge3/smil:docboxhd/playlist.m3u8
-#EXTINF:0,travelchannel
-http://178.160.245.146:1935/edge5/smil:travelchannel/playlist.m3u8
-#EXTINF:0,avtoplus
-http://178.160.245.146:1935/edge5/smil:avtoplus/playlist.m3u8
-#EXTINF:0,muztv
-http://178.160.245.147:1935/edge5/smil:muztv/playlist.m3u8
-#EXTINF:0,kuxnyatv
-http://178.160.245.148:1935/edge1/smil:kuxnyatv/playlist.m3u8
-#EXTINF:0,kinomix
-http://178.160.245.145:1935/edge5/smil:kinomix/playlist.m3u8
-#EXTINF:0,bridgetvclassic
-http://178.160.245.147:1935/edge4/smil:bridgetvclassic/playlist.m3u8
-#EXTINF:0,tlc
-http://178.160.245.146:1935/edge4/smil:tlc/playlist.m3u8
-#EXTINF:0,discoveryscience
-http://178.160.245.145:1935/edge3/smil:discoveryscience/playlist.m3u8
-#EXTINF:0,vgostyaxuskazki
-http://178.160.245.145:1935/edge3/vgostyaxuskazki.smil/playlist.m3u8
-#EXTINF:0,bridgetvrusskiyxit
-http://178.160.245.145:1935/edge6/smil:bridgetvrusskiyxit/playlist.m3u8
-#EXTINF:0,boomerang
-http://178.160.245.146:1935/edge5/smil:boomerang/playlist.m3u8
-#EXTINF:0,zeetv
-http://178.160.245.146:1935/edge6/smil:zeetv/playlist.m3u8
-#EXTINF:0,tnt
-http://178.160.245.148:1935/edge4/smil:tnt/playlist.m3u8
-#EXTINF:0,armenia
-http://178.160.245.148:1935/edge6/smil:armenia/playlist.m3u8
-#EXTINF:0,h1
-http://178.160.245.184:80/live/eds/H1-HD/SAF-HLS/H1-HD.m3u8
-#EXTINF:0,kentron
-http://178.160.245.146:1935/edge6/smil:kentron/playlist.m3u8
-#EXTINF:0,atv
-http://178.160.245.147:1935/edge6/smil:atv/playlist.m3u8
-#EXTINF:0,haytv
-http://178.160.245.147:1935/edge5/smil:haytv/playlist.m3u8
-#EXTINF:0,tava
-http://178.160.245.148:1935/edge5/smil:tava/playlist.m3u8
-#EXTINF:0,shant
-http://178.160.245.147:1935/edge6/smil:shant/playlist.m3u8
-#EXTINF:0,h2
-http://178.160.245.147:1935/edge6/smil:h2/playlist.m3u8
-#EXTINF:0,5aliq
-http://178.160.245.147:1935/edge3/smil:5aliq/playlist.m3u8
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/bf/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bi/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bj/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/bw/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cd/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cf/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cg/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ci/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cm/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cv/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dj/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/ee-et/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/ee-ru/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/er/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/et/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fi/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/ga/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gh/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/gm/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/gn/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/gq/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gw/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/tvmusor.hu.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/ke/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/lr/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ls/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mg/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ml/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mr/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mu/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mw/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/na/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ne/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/rw/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/sc/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/sd/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sl/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/sn/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/so/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ss/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/st/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/sz/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/td/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/tg/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/ug/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/zm/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/zw/dstv.com.epg.xml"
-#EXTINF:-1 tvg-id="5TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",5-րդ ալիք (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 tvg-id="21TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Entertainment",21TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 tvg-id="AmgaTV.us" tvg-country="AM" tvg-language="Armenian;Russian;English" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="General",Amga TV (720p) [Not 24/7]
-https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Movies",Armenia Premium (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaHayKino.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XwbLfqd.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Movies",Armenia Հայ Կինո (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaJanTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AhX46e5.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Music",Armenia Ջան TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XjhkUXy.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Kids",Armenia Տուն Թունիկ (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-id="ARTNTV.us" tvg-country="AM" tvg-language="Russian;Armenian" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="General",ARTN TV (1080p) [Not 24/7]
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 tvg-id="ATV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",ATV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id="ATVTavaTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",ATV Թավա TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/mrfm9uY.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Kids",ATV ԽաղԱլիք (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 tvg-id="ATVHayTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/KCkzU5R.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Music",ATV Հայ TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Movies",ATV Ֆիլմզոն (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Movies",AXN East Asia (1080p) [Geo-blocked]
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxMoviesAsia.us" tvg-country="ASIA" tvg-language="Thai" tvg-logo="https://i.imgur.com/vs51MBW.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Movies",Fox Movies Asia (Thai) (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FreshTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://img.catcast.tv/uploads/09072021/logos/33718-60e8114945a4a.png" group-title="Music",Fresh TV (720p)
-https://freshtv.catcast.tv/content/33718/index.m3u8
-#EXTINF:-1 tvg-id="HorizonArmenian.us" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/GVUIJiD.png" group-title="",Horizon Armenian (1080p)
-http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV Europe (720p)
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-country="ASIA" tvg-language="Arabic" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild Asia (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="H1.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Armenian_Public_TV_logo.svg/507px-Armenian_Public_TV_logo.svg.png" group-title="General",Առաջին ալիք (1080p)
-http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fnoOw8T.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",Արմենիա TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-id="ArmNews.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/0vrFGY5.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="News",Արմնյուզ (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 tvg-id="YerkirMediaTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/FKpxkVH.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",Երկիր Մեդիա (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 tvg-id="KentronTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/g7pEQG6.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",Կենտրոն (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="H2.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Armenian_Second_TV_Channel_logo.svg/800px-Armenian_Second_TV_Channel_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",Հ2 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:-1 tvg-id="NorHayastanTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/EmOsMTC.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",Նոր Հայաստան (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 tvg-id="ShantTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/EbqVba3.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="",Շանթ (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-id="ShoghakatTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Religious",Շողակաթ (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:0,H1-HD
+http://178.160.245.185:80/live/eds/H1-HD/SAF-HLS/H1-HD.m3u8
+#EXTINF:0,H2
+http://178.160.245.186:80/live/eds/H2/SAF-HLS/H2.m3u8
+#EXTINF:0,ShantTV
+http://178.160.245.185:80/live/eds/ShantTV/SAF-HLS/ShantTV.m3u8
+#EXTINF:0,ArmeniaTV
+http://178.160.245.186:80/live/eds/ArmeniaTV/SAF-HLS/ArmeniaTV.m3u8
+#EXTINF:0,Kentron
+http://178.160.245.186:80/live/eds/Kentron/SAF-HLS/Kentron.m3u8
+#EXTINF:0,5Aliq
+http://178.160.245.184:80/live/eds/5Aliq/SAF-HLS/5Aliq.m3u8
+#EXTINF:0,ErkirMedia
+http://178.160.245.187:80/live/eds/ErkirMedia/SAF-HLS/ErkirMedia.m3u8
+#EXTINF:0,FreeNews
+http://178.160.245.186:80/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
+#EXTINF:0,AzatutyunTV
+http://178.160.245.187:80/live/eds/AzatutyunTV/SAF-HLS/AzatutyunTV.m3u8
+#EXTINF:0,ATV
+http://178.160.245.187:80/live/eds/ATV/SAF-HLS/ATV.m3u8
+#EXTINF:0,ArmNews
+http://178.160.245.187:80/live/eds/ArmNews/SAF-HLS/ArmNews.m3u8
+#EXTINF:0,NorHayastan
+http://178.160.245.186:80/live/eds/NorHayastan/SAF-HLS/NorHayastan.m3u8
+#EXTINF:0,ShogakatTV
+http://178.160.245.185:80/live/eds/ShogakatTV/SAF-HLS/ShogakatTV.m3u8
+#EXTINF:0,DAR21TV
+http://178.160.245.185:80/live/eds/DAR21TV/SAF-HLS/DAR21TV.m3u8
+#EXTINF:0,H1_News-HD
+http://178.160.245.185:80/live/eds/H1_News-HD/SAF-HLS/H1_News-HD.m3u8
+#EXTINF:0,ArmNews24
+http://178.160.245.184:80/live/eds/ArmNews24/SAF-HLS/ArmNews24.m3u8
+#EXTINF:0,NurTV
+http://178.160.245.187:80/live/eds/NurTV/SAF-HLS/NurTV.m3u8
+#EXTINF:0,5Aliq_Plus
+http://178.160.245.184:80/live/eds/5Aliq_Plus/SAF-HLS/5Aliq_Plus.m3u8
+#EXTINF:0,1in.am
+http://178.160.245.142:1935/edge6/1in.am.smil/playlist.m3u8
+#EXTINF:0,ArtcaxTV
+http://178.160.245.187:80/live/eds/ArtcaxTV/SAF-HLS/ArtcaxTV.m3u8
+#EXTINF:0,ORT
+http://178.160.245.187:80/live/eds/ORT/SAF-HLS/ORT.m3u8
+#EXTINF:0,ROSSIYA24
+http://178.160.245.184:80/live/eds/ROSSIYA24/SAF-HLS/ROSSIYA24.m3u8
+#EXTINF:0,RTRPlaneta
+http://178.160.245.187:80/live/eds/RTRPlaneta/SAF-HLS/RTRPlaneta.m3u8
+#EXTINF:0,RossiaK
+http://178.160.245.185:80/live/eds/RossiaK/SAF-HLS/RossiaK.m3u8
+#EXTINF:0,NTVMir
+http://178.160.245.185:80/live/eds/NTVMir/SAF-HLS/NTVMir.m3u8
+#EXTINF:0,ntvpravo
+http://178.160.245.144:1935/edge5/smil:ntvpravo/playlist.m3u8
+#EXTINF:0,MIR_TV
+http://178.160.245.184:80/live/eds/MIR_TV/SAF-HLS/MIR_TV.m3u8
+#EXTINF:0,Mir_24
+http://178.160.245.187:80/live/eds/Mir_24/SAF-HLS/Mir_24.m3u8
+#EXTINF:0,RBK
+http://178.160.245.187:80/live/eds/RBK/SAF-HLS/RBK.m3u8
+#EXTINF:0,Izvestiya
+http://178.160.245.187:80/live/eds/Izvestiya/CL1-HLS/Izvestiya.m3u8
+#EXTINF:0,Nastoyashee_Vremya
+http://178.160.245.186:80/live/eds/Nastoyashee_Vremya/SAF-HLS/Nastoyashee_Vremya.m3u8
+#EXTINF:0,TVC
+http://178.160.245.187:80/live/eds/TVC/SAF-HLS/TVC.m3u8
+#EXTINF:0,TB3
+http://178.160.245.187:80/live/eds/TB3/SAF-HLS/TB3.m3u8
+#EXTINF:0,ctcint
+http://178.160.245.146:1935/edge3/smil:ctcint/playlist.m3u8
+#EXTINF:0,REN_TV
+http://178.160.245.185:80/live/eds/REN_TV/SAF-HLS/REN_TV.m3u8
+#EXTINF:0,TNT4
+http://178.160.245.185:80/live/eds/TNT4/SAF-HLS/TNT4.m3u8
+#EXTINF:0,TNT
+http://178.160.245.185:80/live/eds/TNT/SAF-HLS/TNT.m3u8
+#EXTINF:0,Peretz
+http://178.160.245.185:80/live/eds/Peretz/SAF-HLS/Peretz.m3u8
+#EXTINF:0,pyatnica
+http://178.160.245.147:1935/edge1/smil:pyatnica/playlist.m3u8
+#EXTINF:0,5_Kanal
+http://178.160.245.186:80/live/eds/5_Kanal/SAF-HLS/5_Kanal.m3u8
+#EXTINF:0,8_Kanal
+http://178.160.245.184:80/live/eds/8_Kanal/SAF-HLS/8_Kanal.m3u8
+#EXTINF:0,RETRO
+http://178.160.245.185:80/live/eds/RETRO/SAF-HLS/RETRO.m3u8
+#EXTINF:0,Zvezda
+http://178.160.245.185:80/live/eds/Zvezda/SAF-HLS/Zvezda.m3u8
+#EXTINF:0,Kinoman
+http://178.160.245.187:80/live/eds/Kinoman/SAF-HLS/Kinoman.m3u8
+#EXTINF:0,Filmzon
+http://178.160.245.187:80/live/eds/Filmzon/SAF-HLS/Filmzon.m3u8
+#EXTINF:0,Bazmoc_TV
+http://178.160.245.187:80/live/eds/Bazmoc_TV/SAF-HLS/Bazmoc_TV.m3u8
+#EXTINF:0,Indiiskoe_Kino
+http://178.160.245.186:80/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino.m3u8
+#EXTINF:0,ZeeTV
+http://178.160.245.185:80/live/eds/ZeeTV/SAF-HLS/ZeeTV.m3u8
+#EXTINF:0,Kinohit
+http://178.160.245.185:80/live/eds/Kinohit/SAF-HLS/Kinohit.m3u8
+#EXTINF:0,KinopremieraHD
+http://178.160.245.185:80/live/eds/KinopremieraHD/SAF-HLS/KinopremieraHD.m3u8
+#EXTINF:0,Kinosemya
+http://178.160.245.185:80/live/eds/Kinosemya/SAF-HLS/Kinosemya.m3u8
+#EXTINF:0,Kinosvidanie
+http://178.160.245.185:80/live/eds/Kinosvidanie/SAF-HLS/Kinosvidanie.m3u8
+#EXTINF:0,Kinokomediya
+http://178.160.245.185:80/live/eds/Kinokomediya/SAF-HLS/Kinokomediya.m3u8
+#EXTINF:0,Kinomix
+http://178.160.245.187:80/live/eds/Kinomix/SAF-HLS/Kinomix.m3u8
+#EXTINF:0,Kinoujas
+http://178.160.245.185:80/live/eds/Kinoujas/SAF-HLS/Kinoujas.m3u8
+#EXTINF:0,Kinoseriya
+http://178.160.245.185:80/live/eds/Kinoseriya/SAF-HLS/Kinoseriya.m3u8
+#EXTINF:0,Nashe_Novoe_Kino
+http://178.160.245.187:80/live/eds/Nashe_Novoe_Kino/SAF-HLS/Nashe_Novoe_Kino.m3u8
+#EXTINF:0,Mujskoe_Kino
+http://178.160.245.184:80/live/eds/Mujskoe_Kino/SAF-HLS/Mujskoe_Kino.m3u8
+#EXTINF:0,Illuzion_Plus
+http://178.160.245.187:80/live/eds/Illuzion_Plus/SAF-HLS/Illuzion_Plus.m3u8
+#EXTINF:0,TV1000Russ
+http://178.160.245.186:80/live/eds/TV1000Russ/SAF-HLS/TV1000Russ.m3u8
+#EXTINF:0,TV1000Action
+http://178.160.245.186:80/live/eds/TV1000Action/SAF-HLS/TV1000Action.m3u8
+#EXTINF:0,Eurokino
+http://178.160.245.185:80/live/eds/Eurokino/SAF-HLS/Eurokino.m3u8
+#EXTINF:0,Dom_Kino_Premium
+http://178.160.245.185:80/live/eds/Dom_Kino_Premium/SAF-HLS/Dom_Kino_Premium.m3u8
+#EXTINF:0,Dom_Kino
+http://178.160.245.185:80/live/eds/Dom_Kino/SAF-HLS/Dom_Kino.m3u8
+#EXTINF:0,Lubimoe_Kino
+http://178.160.245.187:80/live/eds/Lubimoe_Kino/SAF-HLS/Lubimoe_Kino.m3u8
+#EXTINF:0,Rodnoe_Kino
+http://178.160.245.187:80/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino.m3u8
+#EXTINF:0,Film_UA_Drama
+http://178.160.245.184:80/live/eds/Film_UA_Drama/SAF-HLS/Film_UA_Drama.m3u8
+#EXTINF:0,NTV_Serial
+http://178.160.245.187:80/live/eds/NTV_Serial/SAF-HLS/NTV_Serial.m3u8
+#EXTINF:0,TVXXl
+http://178.160.245.185:80/live/eds/TVXXl/SAF-HLS/TVXXl.m3u8
+#EXTINF:0,Dorama
+http://178.160.245.185:80/live/eds/Dorama/SAF-HLS/Dorama.m3u8
+#EXTINF:0,ARSENAL_HD
+http://ncdn-y-vip1.teamcloud.am/live/eds/ARSENAL_HD/SAF-HLS/ARSENAL_HD.m3u8
+#EXTINF:0,H2
+http://ncdn-y-vip1.teamcloud.am/live/eds/FlixSnip/SAF-HLS/FlixSnip.m3u8
+#EXTINF:0,Star_Cinema
+http://ncdn-y-vip1.teamcloud.am/live/eds/Star_Cinema/SAF-HLS/Star_Cinema.m3u8
+#EXTINF:0,StarFamily
+http://ncdn-y-vip1.teamcloud.am/live/eds/StarFamily/SAF-HLS/StarFamily.m3u8
+#EXTINF:0,Bolt_HD
+http://ncdn-y-vip1.teamcloud.am/live/eds/Bolt_HD/SAF-HLS/Bolt_HD.m3u8
+#EXTINF:0,FilmBox
+http://ncdn-y-vip1.teamcloud.am/live/eds/FilmBox/CL1-iHLS/FilmBox.m3u8
+#EXTINF:0,FilmBox_Arthouse
+http://ncdn-y-vip1.teamcloud.am/live/eds/FilmBox_Arthouse/SAF-HLS/FilmBox_Arthouse.m3u8
+#EXTINF:0,Hwollywood_HD
+http://ncdn-y-vip1.teamcloud.am/live/eds/Hwollywood_HD/SAF-HLS/Hwollywood_HD.m3u8
+#EXTINF:0,viasat_explore
+http://ttv-lrb1.teamcloud.am:1935/redirect/edge4/smil:viasat_explore?type=m3u8
+
+
+
+
+
+
+
+
+
