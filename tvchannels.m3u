@@ -174,7 +174,7 @@ http://ttv-lrb1.teamcloud.am:1935/redirect/edge4/smil:kap_fantastika?type=m3u8
 #EXTINF:0,TiJi
 http://ncdn-y-vip1.teamcloud.am/live/eds/TiJi/SAF-HLS/TiJi.m3u8
 #EXTINF:0,englishclub
-http://ncdn-y-vip1.teamcloud.am//live/eds/englishclub/SAF-HLS/englishclub.m3u8
+http://ncdn-y-vip1.teamcloud.am/live/eds/english_club/SAF-HLS/english_club.m3u8
 #EXTINF:0,Evrika_HD
 http://ncdn-y-vip1.teamcloud.am/live/eds/Evrika_HD/SAF-HLS/Evrika_HD.m3u8
 #EXTINF:0,Voprosy_i_otvety
