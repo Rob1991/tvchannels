@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,H1-HD
-http://ncdn-y-vip1.teamcloud.am/live/eds/H1-HD/SAF-HLS/H1-HD.m3u8
+http://178.160.245.185:80/live/eds/H1TV-HD/SAF-HLS/H1TV-HD.m3u8
 #EXTINF:0,H2
 http://ncdn-y-vip1.teamcloud.am/live/eds/H2/SAF-HLS/H2.m3u8
 #EXTINF:0,ShantTV
-http://ncdn-y-vip1.teamcloud.am/live/eds/ShantTV/SAF-HLS/ShantTV.m3u8
+http://178.160.245.183:80/live/eds/ShantTV-HD/SAF-HLS/ShantTV-HD.m3u8
 #EXTINF:0,ArmeniaTV
 http://178.160.245.183:80/live/eds/ArmeniaTV-HD/SAF-HLS/ArmeniaTV-HD.m3u8
 #EXTINF:0,Kentron
