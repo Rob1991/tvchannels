@@ -174,7 +174,7 @@ http://ttv-lrb1.teamcloud.am:1935/redirect/edge4/smil:kap_fantastika?type=m3u8
 #EXTINF:0,TiJi
 http://ncdn-y-vip1.teamcloud.am/live/eds/TiJi/SAF-HLS/TiJi.m3u8
 #EXTINF:0,englishclub
-http://ttv-lrb1.teamcloud.am:1935/redirect/edge3/smil:englishclub?type=m3u8
+http://ttv-lrb1.teamcloud.am/redirect/edge3/smil:englishclub?type=m3u8
 #EXTINF:0,Evrika_HD
 http://ncdn-y-vip1.teamcloud.am/live/eds/Evrika_HD/SAF-HLS/Evrika_HD.m3u8
 #EXTINF:0,Voprosy_i_otvety
@@ -276,7 +276,7 @@ http://ncdn-y-vip1.teamcloud.am/live/eds/HAY_TV/SAF-HLS/HAY_TV.m3u8
 #EXTINF:0,MuzZone
 http://ncdn-y-vip1.teamcloud.am/live/eds/MuzZone/SAF-HLS/MuzZone.m3u8
 #EXTINF:0,muztv
-http://ncdn-y-vip1.teamcloud.am/live/eds/Muz_TV/SAF-HLS/Muz_TV.m3u8http://ttv-lrb1.teamcloud.am:1935/redirect/edge5/smil:muztv?type=m3u8
+http://ncdn-y-vip1.teamcloud.am/live/eds/Muz_TV/SAF-HLS/Muz_TV.m3u8
 #EXTINF:0,TNT_Music
 http://ncdn-y-vip1.teamcloud.am/live/eds/TNT_Music/SAF-HLS/TNT_Music.m3u8
 #EXTINF:0,CHANSON
