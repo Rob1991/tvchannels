@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0,H1-HD
-http://ncdn-y1-w8.teamcloud.am:80/live/eds/H1TV-HD/SAF-iHLS/H1TV-HD.m3u8
+http://ncdn-y1-vip2.teamcloud.am/live/eds/H1-Mob/SAF-iHLS/H1-Mob.m3u8
 #EXTINF:0,H2
-http://ncdn-y1-w8.teamcloud.am:80/live/eds/H2-HD/SAF-iHLS/H2-HD.m3u8
+http://ncdn-y1-w8.teamcloud.am:80/live/eds/H2-Mob/SAF-iHLS/H2-Mob.m3u8
 #EXTINF:0,ShantTV
-http://ncdn-y1-w8.teamcloud.am:80/live/eds/ShantTV-HD/SAF-iHLS/ShantTV-HD.m3u8
+http://ncdn-y1-w8.teamcloud.am:80/live/eds/ShantTV-Mob/SAF-iHLS/ShantTV-Mob.m3u8
 #EXTINF:0,ArmeniaTV
-http://ncdn-y1-w8.teamcloud.am:80/live/eds/ArmeniaTV-HD/SAF-iHLS/ArmeniaTV-HD.m3u8
+http://ncdn-y1-vip2.teamcloud.am/live/eds/ArmeniaTV-Mob/SAF-iHLS/ArmeniaTV-Mob.m3u8
 #EXTINF:0,Kentron
 http://ncdn-y1-w8.teamcloud.am:80/live/eds/Kentron/SAF-iHLS/Kentron.m3u8
 #EXTINF:0,5Aliq
